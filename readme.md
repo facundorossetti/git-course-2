@@ -18,11 +18,11 @@ git commit
 git log
 git push
 git pull
-
 git checkout
 git switch
+git restore
+
 git merge
 git tag
-git merge
 
 git reset
