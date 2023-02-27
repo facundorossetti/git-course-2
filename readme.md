@@ -23,3 +23,5 @@ git merge
 git log
 git tag
 
++
+otros comandos...
