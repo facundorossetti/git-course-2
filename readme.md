@@ -21,8 +21,6 @@ git pull
 git checkout
 git switch
 git restore
-
 git merge
 git tag
-
 git reset
