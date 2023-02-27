@@ -14,11 +14,11 @@ git branch
 git status
 git add
 git commit
-
-git pull
+git log
 git push
+git pull
+
 git checkout
 git switch
 git merge
-git log
 git tag
