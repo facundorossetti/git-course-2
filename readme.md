@@ -12,9 +12,9 @@ git clone
 git fork
 git branch
 git status
-
 git add
 git commit
+
 git pull
 git push
 git checkout
