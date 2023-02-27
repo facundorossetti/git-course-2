@@ -6,10 +6,13 @@ Tareas a realizar:
 3) Crear un archivo .gitignore
 Comandos basicos de GIT:
 git init
+git remote
 git config
 git clone
 git fork
+git branch
 git status
+
 git add
 git commit
 git pull
@@ -19,5 +22,4 @@ git switch
 git merge
 git log
 git tag
-git remote
-git branch
+
